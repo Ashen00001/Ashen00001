@@ -1,10 +1,4 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="bonsai-dark.svg"><img alt="Cherry blossom bonsai with petals drifting down" src="bonsai-light.svg" width="100%"></picture>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F4A7C4&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Ashen;I+break+tools...;...then+fix+them">
-    <img alt="Hi, I'm Ashen. I break tools, then fix them." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=C2477A&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Ashen;I+break+tools...;...then+fix+them">
-  </picture>
-</div>
 
 ### 👋 About me
 
