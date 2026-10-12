@@ -19,7 +19,7 @@
 | 📚 | **Manga Tracker** · Python | Search a series and see which nearby stores have each volume on the shelf. Sends a Discord DM on restock |
 | 🗾 | **Japanese Tutor** · Python | Voice tutor that keeps its memory in an Anki deck. Also works inside Claude as an MCP connector |
 | 🎬 | **Domain** · CSS | Dark, glassy Jellyfin theme with a cursed-red edge, plus Limitless and Hollow Purple presets |
-| 🏆 | **RankBox** · C# | Jellyfin plugin that ranks your shows head to head by binary search, then checks for recency bias |
+| 🏆 | [**RankBox**](https://github.com/Ashen00001/jellyfin-plugin-rankbox) · C# | Jellyfin plugin that ranks your shows head to head by binary search, then checks for recency bias |
 | 🎓 | **Canvas Remote MCP** · Python | Canvas LMS as a remote MCP server, behind GitHub OAuth and an allowlist |
 | 🎯 | **Valorant Shop Bot** · Python | Wakes the PC daily, posts the Valorant shop to Discord, and lets you buy skins from your phone |
 | 🧩 | **Better Canvas fork** · JS | Fully local theme gallery (426 themes) with no tracking |
