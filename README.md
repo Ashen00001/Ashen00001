@@ -2,18 +2,19 @@
 
 ### 👋 About me
 
-- I make small tools for stuff I actually use: music, manga, anime, school
-- I self-host my anime on Jellyfin. Dub or nothing
-- Valorant, Iso and Phoenix. I built a coach that reviews my deaths and it keeps telling me to stop dry peeking. I don't listen
-- I mod games way too much: Cyberpunk 2077, a Minecraft profile around 170 mods deep, and Assetto Corsa, which I've tuned with DLSS on a 3060 until it's CPU-bound at around 80 fps in traffic
-- Learning Japanese a little every day
-- My PC crashed 13 times in about four months and I still blame the RAM
-- I run a local AI model on my GPU
-- I build iPhone apps, MCP servers and a manga stock tracker
-- Downhill MTB. Mullet setup, constant tire debates. I also made a browser MTB game called Cedar Drop
-- Building a sixth finger driven by forearm muscle signals. It started as "could I build a Sandevistan?"
-- Prediction markets: Kalshi and Polymarket. I made a Kalshi widget with a 30-day sparkline
-- I also wrote a Polymarket arbitrage bot that has only ever run in demo mode
+- i make small tools for stuff i actually use: music, manga, anime, school
+- self-host my anime on jellyfin. dub or nothing
+- valorant, iso and phoenix. built a coach that reviews my deaths. it keeps telling me to stop dry peeking. i don't listen
+- mod games way too much. cyberpunk, minecraft (~170 mods), assetto corsa
+- assetto corsa is tuned with dlss on my 3060 and now i'm cpu bound at ~80 fps in traffic
+- learning japanese a little every day
+- my pc crashed 13 times in 4 months and i still blame the ram
+- run a local ai model on my gpu
+- build iphone apps, mcp servers, a manga stock tracker
+- downhill mtb. mullet setup, constant tire debates. made a browser mtb game called cedar drop
+- building a sixth finger run by forearm muscle signals. started as "could i build a sandevistan"
+- kalshi and polymarket. made a kalshi widget with a 30 day sparkline
+- wrote a polymarket arb bot, only ever ran in demo mode
 
 ### 🛠️ Projects
 
@@ -30,11 +31,11 @@
 
 ### 🎲 Random
 
-- I have an iPod mini running Rockbox. The battery barely lasts
-- I once tried to run a 17GB model on a 12GB GPU. It spilled onto the CPU and crawled
-- I built a NAS out of an old tower for under $200
-- I want to visit every Chipotle in my state
-- "Ashen" is from the Devil's Roar in Sea of Thieves
+- ipod mini on rockbox, battery barely lasts
+- tried running a 17gb model on a 12gb gpu. it crawled
+- built a nas out of an old tower for under $200
+- want to visit every chipotle in my state
+- "ashen" is from the devil's roar in sea of thieves
 
 ### 🧰 Tech
 
