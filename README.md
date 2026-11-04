@@ -44,7 +44,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="tech-dark.svg">
-  <img alt="Python, TypeScript, Go, Rust, Swift, JavaScript, C#, .NET, HTML, CSS, FastAPI, Docker, Linux, Git, GitHub Actions, PowerShell, Bash, SQLite, Discord" src="tech-light.svg" width="554">
+  <img alt="Python, TypeScript, Go, Rust, Java, Swift, JavaScript, C#, .NET, HTML, CSS, FastAPI, Docker, Linux, Git, GitHub Actions, PowerShell, Bash, SQLite, Discord" src="tech-light.svg" width="554">
 </picture>
 
 ### 📊 Stats
