@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="bonsai-dark.svg"><img alt="Cherry blossom bonsai with petals drifting down. Ashen: calm bonsai, chaotic PC." src="bonsai-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="bonsai-dark.svg"><img alt="Cherry blossom bonsai with petals drifting down. Ashen." src="bonsai-light.svg" width="100%"></picture>
 
 ### 👋 About me
 
