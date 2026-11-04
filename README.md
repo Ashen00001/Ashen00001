@@ -21,6 +21,7 @@
 | | Project | What it does |
 |:-:|---|---|
 | 🚵 | [**Cedar Drop**](https://github.com/Ashen00001/cedar-drop) · TypeScript | Endless freeride downhill MTB game in the browser: custom bike physics, tricks and combos, procedural trails. [Play it](https://ashen00001.github.io/cedar-drop/) |
+| 🔎 | [**Dubcheck**](https://github.com/Ashen00001/dubcheck) · Rust | Read-only audit of an anime library: which episodes have English or Japanese audio, plus missing and duplicate episodes. Single binary, cached rescans in about 0.15 s |
 | 💤 | [**Wake Proxy**](https://github.com/Ashen00001/wake-proxy) · Go | One link wakes your PC, waits for Jellyfin to come up, then redirects you to it. Single static binary, stdlib only |
 | 🎵 | [**Harvest**](https://github.com/Ashen00001/harvest) · Swift | iPhone app that listens to the room, identifies every song it hears, and builds a Spotify playlist |
 | 📚 | [**Manga Tracker**](https://github.com/Ashen00001/manga-tracker) · Python | Search a series and see which nearby stores have each volume on the shelf. Sends a Discord DM on restock |
@@ -43,7 +44,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="tech-dark.svg">
-  <img alt="Python, TypeScript, Go, Swift, JavaScript, C#, .NET, HTML, CSS, FastAPI, Docker, Linux, Git, GitHub Actions, PowerShell, Bash, SQLite, Discord" src="tech-light.svg" width="498">
+  <img alt="Python, TypeScript, Go, Rust, Swift, JavaScript, C#, .NET, HTML, CSS, FastAPI, Docker, Linux, Git, GitHub Actions, PowerShell, Bash, SQLite, Discord" src="tech-light.svg" width="554">
 </picture>
 
 ### 📊 Stats
