@@ -30,7 +30,7 @@
 | 🏆 | [**RankBox**](https://github.com/Ashen00001/jellyfin-plugin-rankbox) · C# | Jellyfin plugin that ranks your shows head to head by binary search, then checks for recency bias |
 | 🎓 | [**Canvas Remote MCP**](https://github.com/Ashen00001/canvas-remote-mcp) · Python | Canvas LMS as a remote MCP server, behind GitHub OAuth and an allowlist |
 | 🎯 | [**Valorant Shop Bot**](https://github.com/Ashen00001/valorant-shop-bot) · Python | Wakes the PC daily, posts the Valorant shop to Discord, and lets you buy skins from your phone |
-| 🧩 | **Better Canvas fork** · JS | Fully local theme gallery (426 themes) with no tracking |
+| 🧩 | [**Better Canvas fork**](https://github.com/Ashen00001/better-canvas) · JS | Fully local theme gallery (426 themes) with no tracking |
 
 ### 🎲 Random
 
