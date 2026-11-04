@@ -40,16 +40,12 @@
 ### 🧰 Tech
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,swift,js,cs,html,css,fastapi,docker,linux,git&theme=dark">
-  <img alt="Python, Swift, JavaScript, C#, HTML, CSS, FastAPI, Docker, Linux, Git" src="https://skillicons.dev/icons?i=py,swift,js,cs,html,css,fastapi,docker,linux,git&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="tech-dark.svg">
+  <img alt="Python, Swift, JavaScript, C#, HTML, CSS, FastAPI, Docker, Linux, Git" src="tech-light.svg" width="420">
 </picture>
 
 ### 📊 Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ashen00001&show_icons=true&hide_border=true&theme=github_dark">
-  <img height="165" alt="Ashen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ashen00001&show_icons=true&hide_border=true">
-</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ashen00001&hide_border=true&theme=github-dark-blue">
   <img height="165" alt="Ashen's GitHub streak" src="https://streak-stats.demolab.com?user=Ashen00001&hide_border=true">
