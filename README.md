@@ -20,6 +20,7 @@
 
 | | Project | What it does |
 |:-:|---|---|
+| 🚵 | [**Cedar Drop**](https://github.com/Ashen00001/cedar-drop) · TypeScript | Endless freeride downhill MTB game in the browser: custom bike physics, tricks and combos, procedural trails. [Play it](https://ashen00001.github.io/cedar-drop/) |
 | 🎵 | [**Harvest**](https://github.com/Ashen00001/harvest) · Swift | iPhone app that listens to the room, identifies every song it hears, and builds a Spotify playlist |
 | 📚 | [**Manga Tracker**](https://github.com/Ashen00001/manga-tracker) · Python | Search a series and see which nearby stores have each volume on the shelf. Sends a Discord DM on restock |
 | 🗾 | [**Japanese Tutor**](https://github.com/Ashen00001/Tutor) · Python | Voice tutor that keeps its memory in an Anki deck. Also works inside Claude as an MCP connector |
@@ -41,7 +42,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="tech-dark.svg">
-  <img alt="Python, Swift, JavaScript, C#, .NET, HTML, CSS, FastAPI, Docker, Linux, Git, GitHub Actions, PowerShell, Bash, SQLite, Discord" src="tech-light.svg" width="440">
+  <img alt="Python, TypeScript, Swift, JavaScript, C#, .NET, HTML, CSS, FastAPI, Docker, Linux, Git, GitHub Actions, PowerShell, Bash, SQLite, Discord" src="tech-light.svg" width="498">
 </picture>
 
 ### 📊 Stats
